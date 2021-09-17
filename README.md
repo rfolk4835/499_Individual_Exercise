@@ -6,4 +6,4 @@
 
 ## Added the String Sort algorithm and unit test
 ### This feature takes a String array and sorts it alphabetically from A-Z
-### To use this feature, create an array of Strings of any length and run it with the String sort (This is done in the unit test)
+### To use this feature, create an array of Strings of any length and run it with the String sort (This is done in the unit test) 
