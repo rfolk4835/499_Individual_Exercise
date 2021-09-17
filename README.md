@@ -1,1 +1,1 @@
-# 499_Indivitual_Exercise
+# 499_Individual_Exercise
